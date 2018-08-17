@@ -32,3 +32,5 @@ _ReSharper*/
 packages/
 *.dll
 *.dll
+/BancoDeDados/ExemploComSchema/ExemploComSchema.jfm
+/BancoDeDados/ExemploComSchema/ExemploComSchema.dbmdl

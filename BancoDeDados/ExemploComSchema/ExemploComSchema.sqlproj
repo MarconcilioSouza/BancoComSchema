@@ -65,6 +65,6 @@
     <Build Include="Tabelas\RH.Pessoa.sql" />
     <Build Include="RH.sql" />
     <Build Include="Animais.sql" />
-    <Build Include="Tabelas\RH.Gato.sql" />
+    <Build Include="Tabelas\Animais.Gato.sql" />
   </ItemGroup>
 </Project>
