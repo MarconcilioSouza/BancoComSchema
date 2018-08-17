@@ -1,0 +1,6 @@
+﻿CREATE TABLE [RH].[Pessoa]
+(
+	[Id] INT NOT NULL PRIMARY KEY, 
+    [Nome] VARCHAR(50) NOT NULL, 
+    [Idade] INT NOT NULL
+)
